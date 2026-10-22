@@ -1,0 +1,414 @@
+{
+ "meta": {
+  "sumber": "OpenStreetMap (map.osm) + denah UIN Maulana Malik Ibrahim Malang",
+  "jenis_graf": "tak berarah (semua jalan dua arah)",
+  "bobot": "jarak (meter) = haversine antar titik; waktu = jarak / 1,2 m/s"
+ },
+ "nodes": [
+  {
+   "id": "G_UTARA",
+   "label": "Gerbang Depan (Utara)",
+   "type": "gerbang",
+   "lat": -7.950652,
+   "lon": 112.608428,
+   "px": 626,
+   "py": 460,
+   "osm_id": null
+  },
+  {
+   "id": "G_SELATAN",
+   "label": "Gerbang Depan (Selatan)",
+   "type": "gerbang",
+   "lat": -7.951397,
+   "lon": 112.608476,
+   "px": 628,
+   "py": 570,
+   "osm_id": null
+  },
+  {
+   "id": "G_BELAKANG",
+   "label": "Gerbang Belakang",
+   "type": "gerbang",
+   "lat": -7.95034,
+   "lon": 112.606515,
+   "px": 170,
+   "py": 460,
+   "osm_id": null
+  },
+  {
+   "id": "BUNDARAN",
+   "label": "Bundaran / Tower",
+   "type": "simpang",
+   "lat": -7.950373,
+   "lon": 112.606717,
+   "px": 218,
+   "py": 460,
+   "osm_id": null
+  },
+  {
+   "id": "J_A",
+   "label": "Simpang Utara-Perpustakaan",
+   "type": "simpang",
+   "lat": -7.95046,
+   "lon": 112.607249,
+   "px": 345,
+   "py": 460,
+   "osm_id": null
+  },
+  {
+   "id": "J_B",
+   "label": "Simpang Utara-Rektorat",
+   "type": "simpang",
+   "lat": -7.950533,
+   "lon": 112.607698,
+   "px": 452,
+   "py": 460,
+   "osm_id": null
+  },
+  {
+   "id": "J_W",
+   "label": "Simpang Barat-Tengah",
+   "type": "simpang",
+   "lat": -7.951118,
+   "lon": 112.606764,
+   "px": 220,
+   "py": 570,
+   "osm_id": null
+  },
+  {
+   "id": "J_C",
+   "label": "Simpang Tengah-Perpustakaan",
+   "type": "simpang",
+   "lat": -7.951203,
+   "lon": 112.607289,
+   "px": 345,
+   "py": 570,
+   "osm_id": null
+  },
+  {
+   "id": "J_D",
+   "label": "Simpang Tengah-Rektorat",
+   "type": "simpang",
+   "lat": -7.951277,
+   "lon": 112.607737,
+   "px": 452,
+   "py": 570,
+   "osm_id": null
+  },
+  {
+   "id": "SAINTEK",
+   "label": "Ged. Saintek",
+   "type": "gedung",
+   "lat": -7.95082,
+   "lon": 112.606987,
+   "px": 280,
+   "py": 519,
+   "osm_id": 395873077
+  },
+  {
+   "id": "PERPUS",
+   "label": "Perpustakaan",
+   "type": "gedung",
+   "lat": -7.950823,
+   "lon": 112.607538,
+   "px": 404,
+   "py": 515,
+   "osm_id": 395873093
+  },
+  {
+   "id": "REKTORAT",
+   "label": "Ged. Rektorat",
+   "type": "gedung",
+   "lat": -7.950906,
+   "lon": 112.608102,
+   "px": 505,
+   "py": 515,
+   "osm_id": 395873080
+  },
+  {
+   "id": "MEGAWATI",
+   "label": "Ged. Megawati",
+   "type": "gedung",
+   "lat": -7.951544,
+   "lon": 112.606982,
+   "px": 292,
+   "py": 619,
+   "osm_id": 395873086
+  },
+  {
+   "id": "GED_B",
+   "label": "Ged. B",
+   "type": "gedung",
+   "lat": -7.951941,
+   "lon": 112.607766,
+   "px": 422,
+   "py": 675,
+   "osm_id": 395873050
+  },
+  {
+   "id": "GED_A",
+   "label": "Ged. A",
+   "type": "gedung",
+   "lat": -7.952308,
+   "lon": 112.608076,
+   "px": 576,
+   "py": 698,
+   "osm_id": 395873049
+  },
+  {
+   "id": "GED_C",
+   "label": "Ged. C / Pusat Bahasa",
+   "type": "gedung",
+   "lat": -7.952223,
+   "lon": 112.606919,
+   "px": 266,
+   "py": 717,
+   "osm_id": 395873051
+  },
+  {
+   "id": "MASJID_PUTRI",
+   "label": "Masjid Ma'had Putri",
+   "type": "gedung",
+   "lat": -7.952872,
+   "lon": 112.607782,
+   "px": 427,
+   "py": 807,
+   "osm_id": 395873067
+  },
+  {
+   "id": "SPORT",
+   "label": "Sport Center",
+   "type": "gedung",
+   "lat": -7.953015,
+   "lon": 112.607289,
+   "px": 339,
+   "py": 868,
+   "osm_id": 327351341
+  },
+  {
+   "id": "KHADIJAH",
+   "label": "Khadijah Al-Kubra",
+   "type": "gedung",
+   "lat": -7.95373,
+   "lon": 112.607492,
+   "px": 327,
+   "py": 933,
+   "osm_id": 395873063
+  },
+  {
+   "id": "MASJID_PUTRA",
+   "label": "Masjid Ma'had Putra",
+   "type": "gedung",
+   "lat": -7.950098,
+   "lon": 112.607001,
+   "px": 290,
+   "py": 412,
+   "osm_id": null
+  }
+ ],
+ "edges": [
+  {
+   "id": "E01",
+   "u": "G_UTARA",
+   "v": "J_B",
+   "nama": "Jalan Utara (depan)",
+   "jarak": 81.4
+  },
+  {
+   "id": "E02",
+   "u": "J_B",
+   "v": "J_A",
+   "nama": "Jalan Utara",
+   "jarak": 50.1
+  },
+  {
+   "id": "E03",
+   "u": "J_A",
+   "v": "BUNDARAN",
+   "nama": "Jalan Utara",
+   "jarak": 59.4
+  },
+  {
+   "id": "E04",
+   "u": "BUNDARAN",
+   "v": "G_BELAKANG",
+   "nama": "Jalan Belakang",
+   "jarak": 22.5
+  },
+  {
+   "id": "E05",
+   "u": "BUNDARAN",
+   "v": "MASJID_PUTRA",
+   "nama": "Jalan Utara Ma'had",
+   "jarak": 43.8
+  },
+  {
+   "id": "E06",
+   "u": "BUNDARAN",
+   "v": "J_W",
+   "nama": "Jalan Barat",
+   "jarak": 83.0
+  },
+  {
+   "id": "E07",
+   "u": "J_W",
+   "v": "J_C",
+   "nama": "Jalan Tengah",
+   "jarak": 58.5
+  },
+  {
+   "id": "E08",
+   "u": "J_C",
+   "v": "J_D",
+   "nama": "Jalan Tengah",
+   "jarak": 50.1
+  },
+  {
+   "id": "E09",
+   "u": "J_D",
+   "v": "G_SELATAN",
+   "nama": "Jalan Tengah (depan)",
+   "jarak": 82.4
+  },
+  {
+   "id": "E10",
+   "u": "J_A",
+   "v": "J_C",
+   "nama": "Jalan Perpustakaan",
+   "jarak": 82.8
+  },
+  {
+   "id": "E11",
+   "u": "J_B",
+   "v": "J_D",
+   "nama": "Jalan Rektorat",
+   "jarak": 82.8
+  },
+  {
+   "id": "E12",
+   "u": "J_W",
+   "v": "GED_C",
+   "nama": "Jalan Barat Selatan",
+   "jarak": 124.0
+  },
+  {
+   "id": "E13",
+   "u": "GED_C",
+   "v": "SPORT",
+   "nama": "Akses Ged. C - Sport Center",
+   "jarak": 97.1
+  },
+  {
+   "id": "E14",
+   "u": "J_D",
+   "v": "GED_B",
+   "nama": "Jalan Ged. B",
+   "jarak": 73.9
+  },
+  {
+   "id": "E15",
+   "u": "G_SELATAN",
+   "v": "GED_B",
+   "nama": "Jalan Ged. B (depan)",
+   "jarak": 98.8
+  },
+  {
+   "id": "E16",
+   "u": "G_SELATAN",
+   "v": "GED_A",
+   "nama": "Jalan Ged. A",
+   "jarak": 110.5
+  },
+  {
+   "id": "E17",
+   "u": "GED_A",
+   "v": "GED_B",
+   "nama": "Jalan Ged. A-B",
+   "jarak": 53.3
+  },
+  {
+   "id": "E18",
+   "u": "GED_B",
+   "v": "MASJID_PUTRI",
+   "nama": "Jalan Selatan",
+   "jarak": 103.6
+  },
+  {
+   "id": "E19",
+   "u": "GED_A",
+   "v": "MASJID_PUTRI",
+   "nama": "Jalan Masjid",
+   "jarak": 70.6
+  },
+  {
+   "id": "E20",
+   "u": "MASJID_PUTRI",
+   "v": "SPORT",
+   "nama": "Jalan Selatan",
+   "jarak": 56.5
+  },
+  {
+   "id": "E21",
+   "u": "SPORT",
+   "v": "KHADIJAH",
+   "nama": "Jalan Khadijah",
+   "jarak": 82.5
+  },
+  {
+   "id": "E22",
+   "u": "SAINTEK",
+   "v": "J_A",
+   "nama": "Akses Saintek",
+   "jarak": 49.4
+  },
+  {
+   "id": "E23",
+   "u": "SAINTEK",
+   "v": "J_C",
+   "nama": "Akses Saintek",
+   "jarak": 54.1
+  },
+  {
+   "id": "E24",
+   "u": "PERPUS",
+   "v": "J_A",
+   "nama": "Akses Perpustakaan",
+   "jarak": 51.5
+  },
+  {
+   "id": "E25",
+   "u": "PERPUS",
+   "v": "J_C",
+   "nama": "Akses Perpustakaan",
+   "jarak": 50.4
+  },
+  {
+   "id": "E26",
+   "u": "REKTORAT",
+   "v": "J_B",
+   "nama": "Akses Rektorat",
+   "jarak": 60.8
+  },
+  {
+   "id": "E27",
+   "u": "REKTORAT",
+   "v": "J_D",
+   "nama": "Akses Rektorat",
+   "jarak": 57.5
+  },
+  {
+   "id": "E28",
+   "u": "MEGAWATI",
+   "v": "J_W",
+   "nama": "Akses Megawati",
+   "jarak": 53.1
+  },
+  {
+   "id": "E29",
+   "u": "MEGAWATI",
+   "v": "J_C",
+   "nama": "Akses Megawati",
+   "jarak": 50.7
+  }
+ ]
+}
